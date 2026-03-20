@@ -1,0 +1,130 @@
+{
+  "Header": {
+    "About": "About",
+    "Practice": "Practice",
+    "Philosophy": "Philosophy",
+    "Team": "Partners",
+    "Insights": "Insights",
+    "Contact": "Contact",
+    "Selection": "Select Language",
+    "TheBoutique": "Boutique"
+  },
+  "Hero": {
+    "Subtitle": "The Art of Legal Strategy",
+    "Title": "Protecting your Legacy. Defining your Future.",
+    "CTA": "Request Consultation",
+    "Explore": "Explore",
+    "TheBoutique": "Boutique",
+    "Established": "EST. 2004",
+    "YearRoman": "MMXXVI"
+  },
+  "Stats": {
+    "Billion": "Billions in Assets Under Protection",
+    "Success": "Success Rate in Complex Cases",
+    "Clients": "Global Families & Corporations Served"
+  },
+  "About": {
+    "Title": "A bespoke approach to complex matters.",
+    "Description": "Onyx is not just a firm. It is a strategic partner for those who demand absolute discretion and uncompromised technical excellence in every move.",
+    "Experience": "Years of Experience",
+    "Matters": "High-Value Matters",
+    "Ranking": "Global Ranking",
+    "TheBoutique": "The Boutique"
+  },
+  "Philosophy": {
+    "Title": "Our Principles",
+    "Subtitle": "Excellence as Standard",
+    "P1": "Discretion",
+    "D1": "Absolute privacy across all spheres of operation.",
+    "P2": "Precision",
+    "D2": "Every detail analyzed under multiple strategic lenses.",
+    "P3": "Loyalty",
+    "D3": "Unwavering commitment to client's long-term objectives.",
+    "Pillars": "Our fundamental pillars of strategic excellence."
+  },
+  "Team": {
+    "Title": "The Mind behind the Strategy",
+    "Subtitle": "Senior Partners",
+    "P1": "Dr. Alexandre Vance",
+    "R1": "Founding Partner - Corporate Strategy",
+    "P2": "Dr. Elena Sterling",
+    "R2": "Head of International Wealth Management",
+    "VerPerfil": "View Profile"
+  },
+  "Heritage": {
+    "Title": "Our Heritage",
+    "Subtitle": "A History of Excellence",
+    "Y1": "2004",
+    "E1": "Founded in São Paulo focused on Private Banking.",
+    "Y2": "2012",
+    "E2": "Expansion to Geneva and London.",
+    "Y3": "2024",
+    "E3": "Consolidation as the largest independent legal boutique."
+  },
+  "Practice": {
+    "Title": "Specialized Practice Areas",
+    "Corporate": "Corporate Law",
+    "CorporateDesc": "Legal architecture for M&A and global structures.",
+    "Wealth": "Wealth Management",
+    "WealthDesc": "Asset protection and high-net-worth succession.",
+    "Tax": "Tax Strategy",
+    "TaxDesc": "Tax optimization for complex cross-border operations.",
+    "Subtitle": "Our Expertise",
+    "Description": "We combine technical precision with global business vision to architect solutions that transcend borders and generations.",
+    "Explore": "Explore Strategy"
+  },
+  "Insights": {
+    "Title": "Strategic Perspectives",
+    "Subtitle": "Thought Leadership",
+    "Perspective": "Perspective",
+    "Analysis": "Analysis",
+    "Strategy": "Strategy",
+    "WealthManagement": "Wealth",
+    "I1": "The Future of Family Succession in a Digital World",
+    "I2": "Offshore Structures: Trends for 2026",
+    "ReadMore": "Read Full Article"
+  },
+  "Testimonials": {
+    "Title": "What the voices who trust us say",
+    "T1": "Onyx's strategic precision changed our view on crisis management. Pure excellence.",
+    "A1": "CEO, Fortune 500",
+    "T2": "Discretion and technical competence. There is no other partner at this level for our family.",
+    "A2": "Private Investor",
+    "Subtitle": "Endorsements"
+  },
+  "FAQ": {
+    "Title": "Frequently Asked Questions",
+    "Q1": "How is information confidentiality guaranteed?",
+    "A1": "We use bank-level encryption protocols and rigorous NDAs for all our members.",
+    "Q2": "Does the firm operate in international jurisdictions?",
+    "A2": "Yes, we maintain a network of strategic partners in Geneva, London, New York, and Singapore.",
+    "Subtitle": "Intelligence"
+  },
+  "Contact": {
+    "Title": "Schedule a Confidential Conference",
+    "Name": "Full Name",
+    "Email": "Corporate Email",
+    "Message": "How can we assist?",
+    "Submit": "Send Request",
+    "Subtitle": "Confidential",
+    "Description": "For high-complexity inquiries or wealth management, use our direct and encrypted channel."
+  },
+  "Footer": {
+    "Rights": "All rights reserved.",
+    "Offices": "Global Offices",
+    "Social": "Social",
+    "Description": "International Legal Boutique & Strategic Consultancy",
+    "TheBoutique": "Boutique",
+    "Geneva": "Geneva",
+    "London": "London",
+    "NewYork": "New York",
+    "SaoPaulo": "São Paulo",
+    "LinkedIn": "LinkedIn",
+    "Instagram": "Instagram",
+    "Twitter": "Twitter"
+  },
+  "Metadata": {
+    "Title": "Onyx | International Legal Boutique & Strategic Consultancy",
+    "Description": "Strategic high-complexity consultancy and exclusive wealth management."
+  }
+}

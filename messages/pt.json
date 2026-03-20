@@ -1,0 +1,130 @@
+{
+  "Header": {
+    "About": "Sobre",
+    "Practice": "Atuação",
+    "Philosophy": "Filosofia",
+    "Team": "Sócios",
+    "Insights": "Insights",
+    "Contact": "Contato",
+    "Selection": "Selecionar Idioma",
+    "TheBoutique": "Boutique"
+  },
+  "Hero": {
+    "Subtitle": "A Arte da Estratégia Jurídica",
+    "Title": "Protegendo seu Legado. Definindo seu Futuro.",
+    "CTA": "Solicitar Consultoria",
+    "Explore": "Explorar",
+    "TheBoutique": "Boutique",
+    "Established": "EST. 2004",
+    "YearRoman": "MMXXVI"
+  },
+  "Stats": {
+    "Billion": "Bilhões em Ativos Sob Proteção",
+    "Success": "Índice de Sucesso em Casos Complexos",
+    "Clients": "Famílias e Corporações Globais Atendidas"
+  },
+  "About": {
+    "Title": "Uma abordagem sob medida para questões complexas.",
+    "Description": "O Onyx não é apenas um escritório. É uma parceira estratégica para quem exige discrição absoluta e excelência técnica inegociável em cada movimento.",
+    "Experience": "Anos de Experiência",
+    "Matters": "Casos de Alta Complexidade",
+    "Ranking": "Ranking Global",
+    "TheBoutique": "A Boutique"
+  },
+  "Philosophy": {
+    "Title": "Nossos Princípios",
+    "Subtitle": "A Excelência como Padrão",
+    "P1": "Discrição",
+    "D1": "Privacidade absoluta em todas as esferas de atuação.",
+    "P2": "Precisão",
+    "D2": "Cada detalhe é analisado sob múltiplos prismas estratégicos.",
+    "P3": "Lealdade",
+    "D3": "Compromisso inabalável com os objetivos de longo prazo do cliente.",
+    "Pillars": "Nossos pilares fundamentais de excelência estratégica."
+  },
+  "Team": {
+    "Title": "A Mente por trás da Estratégia",
+    "Subtitle": "Sócios Seniores",
+    "P1": "Dr. Alexandre Vance",
+    "R1": "Sócio Fundador - Estratégia Corporativa",
+    "P2": "Dra. Elena Sterling",
+    "R2": "Head de Gestão Patrimonial Internacional",
+    "VerPerfil": "Ver Perfil"
+  },
+  "Heritage": {
+    "Title": "Nossa Linhagem",
+    "Subtitle": "História de Excelência",
+    "Y1": "2004",
+    "E1": "Fundação em São Paulo focada em Private Banking.",
+    "Y2": "2012",
+    "E2": "Expansão para Genebra e Londres.",
+    "Y3": "2024",
+    "E3": "Consolidação como a maior boutique jurídica independente."
+  },
+  "Practice": {
+    "Title": "Áreas de Atuação Especializada",
+    "Corporate": "Direito Corporativo",
+    "CorporateDesc": "Arquitetura jurídica para fusões, aquisições e estruturas globais.",
+    "Wealth": "Gestão Patrimonial",
+    "WealthDesc": "Blindagem patrimonial e sucessão de grandes fortunas.",
+    "Tax": "Estratégia Tributária",
+    "TaxDesc": "Otimização fiscal para operações transfronteiriças complexas.",
+    "Subtitle": "Nossa Expertise",
+    "Description": "Combinamos precisão técnica com visão de negócios global para arquitetar soluções que transcendem fronteiras e gerações.",
+    "Explore": "Explorar Estratégia"
+  },
+  "Insights": {
+    "Title": "Perspectivas Estratégicas",
+    "Subtitle": "Liderança de Pensamento",
+    "Perspective": "Perspectiva",
+    "Analysis": "Análise",
+    "Strategy": "Estratégia",
+    "WealthManagement": "Patrimonial",
+    "I1": "O Futuro da Sucessão Familiar em um Mundo Digital",
+    "I2": "Estruturas Offshore: Tendências para 2026",
+    "ReadMore": "Ler Artigo Completo"
+  },
+  "Testimonials": {
+    "Title": "O que dizem as vozes que confiam em nós",
+    "T1": "A precisão estratégica do Onyx mudou nossa visão sobre gestão de crise. Excelência pura.",
+    "A1": "CEO, Fortune 500",
+    "T2": "Discrição e competência técnica. Não existe outro parceiro à altura para nossa família.",
+    "A2": "Private Investor",
+    "Subtitle": "Endossos"
+  },
+  "FAQ": {
+    "Title": "Questões Frequentes",
+    "Q1": "Como é garantido o sigilo das informações?",
+    "A1": "Utilizamos protocolos de criptografia de nível bancário e acordos de confidencialidade rigorosos para todos os nossos membros.",
+    "Q2": "O escritório atua em jurisdições internacionais?",
+    "A2": "Sim, possuímos uma rede de parceiros estratégicos em Genebra, Londres, Nova York e Singapura.",
+    "Subtitle": "Inteligência"
+  },
+  "Contact": {
+    "Title": "Agende uma Conferência Confidencial",
+    "Name": "Nome Completo",
+    "Email": "E-mail Corporativo",
+    "Message": "Como podemos colaborar?",
+    "Submit": "Enviar Mensagem",
+    "Subtitle": "Confidencial",
+    "Description": "Para consultas de alta complexidade ou gestão de patrimônio, utilize nosso canal direto e criptografado."
+  },
+  "Footer": {
+    "Rights": "Todos os direitos reservados.",
+    "Offices": "Escritórios Globais",
+    "Social": "Social",
+    "Description": "Boutique Jurídica Internacional & Consultoria Estratégica",
+    "TheBoutique": "Boutique",
+    "Geneva": "Genebra",
+    "London": "Londres",
+    "NewYork": "Nova York",
+    "SaoPaulo": "São Paulo",
+    "LinkedIn": "LinkedIn",
+    "Instagram": "Instagram",
+    "Twitter": "Twitter"
+  },
+  "Metadata": {
+    "Title": "Onyx | Boutique Jurídica Internacional & Consultoria Estratégica",
+    "Description": "Assessoria estratégica de alta complexidade e gestão patrimonial exclusiva."
+  }
+}
