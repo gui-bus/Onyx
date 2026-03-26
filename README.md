@@ -14,6 +14,7 @@
   <img alt="Windsurf" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windsurf.svg">
 </p
 
+---
 
 ## 📖 Panorama Geral
 
