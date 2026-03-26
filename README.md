@@ -1,24 +1,19 @@
 # <p align="center">ONYX</p>
 
 <p align="center">
-  <strong>International Legal Boutique: A Arte da Estratégia Jurídica de Alta Complexidade.</strong>
-</p>
+  <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+  <img alt="NextJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
+  <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+  <img alt="Tailwind" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
+  <img alt="Framer Motion" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Framer%20Motion.svg">
+  <img alt="Phosphor Icons" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Phosphor%20Icons.svg">
+  <img alt="Husky" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Husky.svg">
+  <img alt="Conventional Commits" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Conventional%20Commits.svg">
+  <img alt="Cursor" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cursor.svg">
+  <img alt="Gemini" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gemini.svg">
+  <img alt="Windsurf" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windsurf.svg">
+</p
 
-<p align="center">
-  <a href="https://onyx.guibus.dev/"><img src="https://img.shields.io/badge/Live_Demo-ONYX-000000?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16.2.0-black?style=flat-square&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-19.2.4-blue?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-v4.0.0-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TypeScript-5.0.0-blue?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/next--intl-4.8.3-green?style=flat-square" alt="next-intl" />
-  <img src="https://img.shields.io/badge/Framer_Motion-12.38.0-ff69b4?style=flat-square&logo=framer" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/GSAP-3.14.2-green?style=flat-square&logo=greensock" alt="GSAP" />
-</p>
-
----
 
 ## 📖 Panorama Geral
 
@@ -58,46 +53,3 @@ O projeto utiliza o **next-intl** com uma estratégia de "Zero Latency Language 
 ### Performance e Estilização
 - **Tailwind CSS v4 (Engine JIT):** Utiliza as últimas otimizações de performance para entregar um CSS crítico extremamente leve, essencial para SEO e experiência mobile.
 - **Hybrid Animation Engine:** Otimização de 60fps constantes através da separação de responsabilidades entre Framer Motion (layout/UI) e GSAP (scroll/timelines).
-
----
-
-## 🏗️ Estrutura Arquitetural
-
-```text
-├── messages/             # Dicionários de tradução (en.json, pt.json)
-├── src/
-│   ├── app/
-│   │   └── [locale]/     # Next.js App Router (Páginas Internacionalizadas)
-│   ├── components/
-│   │   ├── common/       # Header, Footer e Provedores de Contexto
-│   │   └── sections/     # Componentes de Seção (Hero, Heritage, Practice...)
-│   ├── hooks/            # Custom Hooks (ScrollReveal, ScrollSpy)
-│   ├── i18n/             # Configurações de request e mapeamento i18n
-│   └── proxy.ts          # Middleware inteligente de rotas
-└── tailwind.config.ts    # Configuração de design system e variáveis
-```
-
----
-
-## 🧪 Engenharia de Qualidade
-
-A integridade do projeto é mantida através de rigorosos padrões de desenvolvimento:
-- **Discretion-First Code:** Estrutura limpa e modular, facilitando auditorias de segurança e manutenção de longo prazo.
-- **Responsive Mastery:** Adaptabilidade total para dispositivos móveis, garantindo que a experiência de luxo seja mantida em qualquer tela.
-- **SEO & Accessibility:** Tags semânticas e conformidade com padrões de acessibilidade para garantir alcance global.
-
-Para rodar o projeto localmente:
-```bash
-pnpm install
-pnpm dev
-```
-
-Para validar o build de produção:
-```bash
-pnpm build
-```
-
----
-<p align="center">
-  Designed with intent by <a href="https://www.linkedin.com/in/gui-bus/">guibus.dev</a> &bull; 2026
-</p>
